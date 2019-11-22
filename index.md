@@ -48,7 +48,11 @@
 **Knowledgeable**
 > Heroku, React Native, Firebase, MongoDB
 
+## Languages
+> English – Native<br />
+> Korean – Fluent
 
+--------------------------------
 ## Work Experience
 
 **Pharmacy Technician Instructor** 2018-2019<br />	
