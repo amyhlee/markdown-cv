@@ -37,23 +37,23 @@
 
 ## Work Experience
 **Pharmacy Technician Instructor** 2018-2019 	<br />
-	  	  *Ford Park Adult School, Los Angeles, CA*<br />
-	  	  * Created and managed a comprehensive pharmacy technician program for adult students
+>	  	  *Ford Park Adult School, Los Angeles, CA*<br />
+>>	  	  * Created and managed a comprehensive pharmacy technician program for adult students
 	
 	
 **Pharmacy Technician Instructor** 2016-2018 	<br />
-		  *California Healing Arts College, Carson, CA*<br />
-		  * Created and managed a comprehensive accredited pharmacy technician program for adult students
+>		  *California Healing Arts College, Carson, CA*<br />
+>>		  * Created and managed a comprehensive accredited pharmacy technician program for adult students
 	
 	
 **Clinician** 2016-2016 	<br />
-		  *Lindamood-Bell Learning Processes, Pacific Palisades, CA*<br />
-		  * Instructor for lanugaue skills development using research validated methods including Seeing Stars, 		    Visualizing and Verbalizing and LiPS
+>		  *Lindamood-Bell Learning Processes, Pacific Palisades, CA*<br />
+>>		  * Instructor for lanugaue skills development using research validated methods including Seeing Stars, 		    Visualizing and Verbalizing and LiPS
 	
 	
 **Pharmacy Technician Instructor / Licensing Specialist** 2011-2016 	<br />
-		  *UEI College, Los Angeles, CA*<br />
-		  * Taught and developed comprehensive course materials for the accredited pharmacy technician program
+>		  *UEI College, Los Angeles, CA*<br />
+>>		  * Taught and developed comprehensive course materials for the accredited pharmacy technician program
 	
 
 
