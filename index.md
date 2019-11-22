@@ -1,39 +1,61 @@
 
 # Amy Lee
-Software Developer
+##Software Developer
 ============
 
--------------------     ----------------------------
-222 E 44th St Apt 34H   lee.asl@gmail.com
-New York, NY 10017      (213) 465 - 5987
--------------------     ----------------------------
+-----------------------------------------------
+New York, NY 10017 
+lee.asl@gmail.com
+(213) 465 - 5987
+-----------------------------------------------
 
 *Former educator in health sciences who found her passion for coding while developing curriculum for the classroom. Persuasive communicator and collaborator with strong interpersonal skills. Strong problem solver that works well under pressure. Proven track record of successfully completing time sensitive and deadline driven projects.*
 
-**Projects
+##Projects
 
-  * Ocean Fusion
-  * Fullstack Developer
-	* ocean-fusion.herokuapp.com
+  ** Ocean Fusion
+     Fullstack Developer
+    *ocean-fusion.herokuapp.com*
 
 	  *	Interactive trivia game that brings awareness to environmental sustainability
 	  *	Developed all applications pages, animation features, login page feature including Google OAuth
 	  *	Tensorflow, PoseNet, React, Express, Sequelize, PostgreSQL, AWS, Git, Github
 	
-  * Map MD
-  * Solo Developer	
-  * github.com/amyhlee/mapMD
+  ** Map MD
+     Solo Developer	
+    *github.com/amyhlee/mapMD*
 
 	   * React Native app that finds user’s current location and provides a listing of nearby healthcare providers
 	   * Solo stackathon project built using React Native and Firebase
 	
-   * Okashi
-   * Fullstack Developer
-   * gracehoppers.herokuapp.com
+   ** Okashi
+      Fullstack Developer
+     *gracehoppers.herokuapp.com*
 
 	   * RESTful e-commerce app that is focused on Japanese snacks and candy
 	   * Implemented database, product pages, deployment on Heroku/Travis
 	   * React, Redux, Express, Sequelize, PostgreSQL, Heroku, Travis, Github
+
+## Work Experience
+2018-2019	** Pharmacy Technician Instructor
+		  *Ford Park Adult School, Los Angeles, CA*
+		  * Created and managed a comprehensive pharmacy technician program for adult students
+	
+	
+2016-2018	** Pharmacy Technician Instructor
+		  *California Healing Arts College, Carson, CA*
+		  * Created and managed a comprehensive accredited pharmacy technician program for adult students
+	
+	
+2016-2016	** Clinician
+		  *Lindamood-Bell Learning Processes, Pacific Palisades, CA*
+		  *Instructor for lanugaue skills development using research validated methods including Seeing Stars, 			   Visualizing and Verbalizing and LiPS
+	
+	
+2011-2016	** Pharmacy Technician Instructor / Licensing Specialist
+		  *UEI College, Los Angeles, CA*
+		  *Taught and developed comprehensive course materials for the accredited pharmacy technician program
+	
 
 
 
