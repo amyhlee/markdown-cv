@@ -1,23 +1,40 @@
 
 # Amy Lee
 Software Developer
+============
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+-------------------     ----------------------------
+222 E 44th St Apt 34H   lee.asl@gmail.com
+New York, NY 10017      (213) 465 - 5987
+-------------------     ----------------------------
 
 *Former educator in health sciences who found her passion for coding while developing curriculum for the classroom. Persuasive communicator and collaborator with strong interpersonal skills. Strong problem solver that works well under pressure. Proven track record of successfully completing time sensitive and deadline driven projects.*
 
-### Specialized in
+**Projects
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+  * Ocean Fusion
+  * Fullstack Developer
+	* ocean-fusion.herokuapp.com
 
+	  *	Interactive trivia game that brings awareness to environmental sustainability
+	  *	Developed all applications pages, animation features, login page feature including Google OAuth
+	  *	Tensorflow, PoseNet, React, Express, Sequelize, PostgreSQL, AWS, Git, Github
+	
+  * Map MD
+  * Solo Developer	
+  * github.com/amyhlee/mapMD
 
-### Research interests
+	   * React Native app that finds user’s current location and provides a listing of nearby healthcare providers
+	   * Solo stackathon project built using React Native and Firebase
+	
+   * Okashi
+   * Fullstack Developer
+   * gracehoppers.herokuapp.com
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+	   * RESTful e-commerce app that is focused on Japanese snacks and candy
+	   * Implemented database, product pages, deployment on Heroku/Travis
+	   * React, Redux, Express, Sequelize, PostgreSQL, Heroku, Travis, Github
+
 
 
 ## Education
