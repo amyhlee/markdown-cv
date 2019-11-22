@@ -3,9 +3,9 @@
 ## Software Developer
 
 -------------------
-New York, NY 10017<br />
-lee.asl@gmail.com<br />
-\(213\) 465 - 5987
+###### New York, NY 10017
+###### lee.asl@gmail.com<br />
+###### \(213\) 465 - 5987
 -------------------
 
 *Former educator in health sciences who found her passion for coding while developing curriculum for the classroom. Persuasive communicator and collaborator with strong interpersonal skills. Strong problem solver that works well under pressure. Proven track record of successfully completing time sensitive and deadline driven projects.*
@@ -36,24 +36,24 @@ lee.asl@gmail.com<br />
 	   * React, Redux, Express, Sequelize, PostgreSQL, Heroku, Travis, Github
 
 ## Work Experience
-2018-2019 >	**Pharmacy Technician Instructor**<br />
+**Pharmacy Technician Instructor** 2018-2019 	<br />
 	  	  *Ford Park Adult School, Los Angeles, CA*<br />
 	  	  * Created and managed a comprehensive pharmacy technician program for adult students
 	
 	
-2016-2018 >	**Pharmacy Technician Instructor**<br />
+**Pharmacy Technician Instructor** 2016-2018 	<br />
 		  *California Healing Arts College, Carson, CA*<br />
 		  * Created and managed a comprehensive accredited pharmacy technician program for adult students
 	
 	
-2016-2016 >	**Clinician**<br />
+**Clinician** 2016-2016 	<br />
 		  *Lindamood-Bell Learning Processes, Pacific Palisades, CA*<br />
-		  *Instructor for lanugaue skills development using research validated methods including Seeing Stars, 			   Visualizing and Verbalizing and LiPS
+		  * Instructor for lanugaue skills development using research validated methods including Seeing Stars, 		    Visualizing and Verbalizing and LiPS
 	
 	
-2011-2016 >	**Pharmacy Technician Instructor / Licensing Specialist**<br />
+**Pharmacy Technician Instructor / Licensing Specialist** 2011-2016 	<br />
 		  *UEI College, Los Angeles, CA*<br />
-		  *Taught and developed comprehensive course materials for the accredited pharmacy technician program
+		  * Taught and developed comprehensive course materials for the accredited pharmacy technician program
 	
 
 
