@@ -3,32 +3,32 @@
 ## Software Developer
 
 -------------------
-New York, NY 10017  return
-lee.asl@gmail.com  return
+New York, NY 10017<br />
+lee.asl@gmail.com<br />
 \(213\) 465 - 5987
 -------------------
 
 *Former educator in health sciences who found her passion for coding while developing curriculum for the classroom. Persuasive communicator and collaborator with strong interpersonal skills. Strong problem solver that works well under pressure. Proven track record of successfully completing time sensitive and deadline driven projects.*
 
-##Projects
+## Projects
 
-  ** Ocean Fusion
-     Fullstack Developer
+  **Ocean Fusion**<br />
+     Fullstack Developer<br />
     *[ocean-fusion.herokuapp.com]*
 
 	  *	Interactive trivia game that brings awareness to environmental sustainability
 	  *	Developed all applications pages, animation features, login page feature including Google OAuth
 	  *	Tensorflow, PoseNet, React, Express, Sequelize, PostgreSQL, AWS, Git, Github
 	
-  ** Map MD
-     Solo Developer	
+  **Map MD**<br />
+     Solo Developer<br />	
     *[github.com/amyhlee/mapMD]*
 
 	   * React Native app that finds user’s current location and provides a listing of nearby healthcare providers
 	   * Solo stackathon project built using React Native and Firebase
 	
-   ** Okashi
-      Fullstack Developer
+   **Okashi**<br />
+      Fullstack Developer<br />
      *[gracehoppers.herokuapp.com]*
 
 	   * RESTful e-commerce app that is focused on Japanese snacks and candy
@@ -36,23 +36,23 @@ lee.asl@gmail.com  return
 	   * React, Redux, Express, Sequelize, PostgreSQL, Heroku, Travis, Github
 
 ## Work Experience
-2018-2019	** Pharmacy Technician Instructor
-		  *Ford Park Adult School, Los Angeles, CA*
-		  * Created and managed a comprehensive pharmacy technician program for adult students
+2018-2019 >	**Pharmacy Technician Instructor**<br />
+	  	  *Ford Park Adult School, Los Angeles, CA*<br />
+	  	  * Created and managed a comprehensive pharmacy technician program for adult students
 	
 	
-2016-2018	** Pharmacy Technician Instructor
-		  *California Healing Arts College, Carson, CA*
+2016-2018 >	**Pharmacy Technician Instructor**<br />
+		  *California Healing Arts College, Carson, CA*<br />
 		  * Created and managed a comprehensive accredited pharmacy technician program for adult students
 	
 	
-2016-2016	** Clinician
-		  *Lindamood-Bell Learning Processes, Pacific Palisades, CA*
+2016-2016 >	**Clinician**<br />
+		  *Lindamood-Bell Learning Processes, Pacific Palisades, CA*<br />
 		  *Instructor for lanugaue skills development using research validated methods including Seeing Stars, 			   Visualizing and Verbalizing and LiPS
 	
 	
-2011-2016	** Pharmacy Technician Instructor / Licensing Specialist
-		  *UEI College, Los Angeles, CA*
+2011-2016 >	**Pharmacy Technician Instructor / Licensing Specialist**<br />
+		  *UEI College, Los Angeles, CA*<br />
 		  *Taught and developed comprehensive course materials for the accredited pharmacy technician program
 	
 
