@@ -19,7 +19,7 @@
 
   **Ocean Fusion**<br />
      Fullstack Developer<br />
-    *[https://www.ocean-fusion.herokuapp.com]*
+    *[https://ocean-fusion.herokuapp.com/]*
 
 	  *	Interactive trivia game that brings awareness to environmental sustainability
 	  *	Developed all applications pages, animation features, login page feature including Google OAuth
@@ -34,7 +34,7 @@
 	
    **Okashi**<br />
       Fullstack Developer<br />
-     *[http://www.gracehoppers.herokuapp.com]*
+     *[http://graceshoppers.herokuapp.com]*
 
 	   * RESTful e-commerce app that is focused on Japanese snacks and candy
 	   * Implemented database, product pages, deployment on Heroku/Travis
