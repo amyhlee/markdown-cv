@@ -91,8 +91,5 @@ San Francisco State University 2010<br />
 
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
