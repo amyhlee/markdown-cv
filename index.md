@@ -1,9 +1,6 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Amy Lee
+Software Developer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -11,9 +8,7 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
+*Former educator in health sciences who found her passion for coding while developing curriculum for the classroom. Persuasive communicator and collaborator with strong interpersonal skills. Strong problem solver that works well under pressure. Proven track record of successfully completing time sensitive and deadline driven projects.*
 
 ### Specialized in
 
