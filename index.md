@@ -1,13 +1,12 @@
 
 # Amy Lee
 ## Software Developer
-============
 
------------------------------------------------
-New York, NY 10017 
-lee.asl@gmail.com
-(213) 465 - 5987
------------------------------------------------
+-------------------
+New York, NY 10017  return
+lee.asl@gmail.com  return
+\(213\) 465 - 5987
+-------------------
 
 *Former educator in health sciences who found her passion for coding while developing curriculum for the classroom. Persuasive communicator and collaborator with strong interpersonal skills. Strong problem solver that works well under pressure. Proven track record of successfully completing time sensitive and deadline driven projects.*
 
@@ -15,7 +14,7 @@ lee.asl@gmail.com
 
   ** Ocean Fusion
      Fullstack Developer
-    *ocean-fusion.herokuapp.com*
+    *[ocean-fusion.herokuapp.com]*
 
 	  *	Interactive trivia game that brings awareness to environmental sustainability
 	  *	Developed all applications pages, animation features, login page feature including Google OAuth
@@ -23,14 +22,14 @@ lee.asl@gmail.com
 	
   ** Map MD
      Solo Developer	
-    *github.com/amyhlee/mapMD*
+    *[github.com/amyhlee/mapMD]*
 
 	   * React Native app that finds user’s current location and provides a listing of nearby healthcare providers
 	   * Solo stackathon project built using React Native and Firebase
 	
    ** Okashi
       Fullstack Developer
-     *gracehoppers.herokuapp.com*
+     *[gracehoppers.herokuapp.com]*
 
 	   * RESTful e-commerce app that is focused on Japanese snacks and candy
 	   * Implemented database, product pages, deployment on Heroku/Travis
