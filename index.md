@@ -10,6 +10,7 @@
 
 *Former educator in health sciences who found her passion for coding while developing curriculum for the classroom. Persuasive communicator and collaborator with strong interpersonal skills. Strong problem solver that works well under pressure. Proven track record of successfully completing time sensitive and deadline driven projects.*
 
+---------------------------
 ## Projects
 
   **Ocean Fusion**<br />
@@ -34,7 +35,7 @@
 	   * RESTful e-commerce app that is focused on Japanese snacks and candy
 	   * Implemented database, product pages, deployment on Heroku/Travis
 	   * React, Redux, Express, Sequelize, PostgreSQL, Heroku, Travis, Github
-
+-------------------------------
 ## Work Experience
 
 **Pharmacy Technician Instructor** 2018-2019<br />	
@@ -56,7 +57,7 @@
 >		  UEI College, Los Angeles, CA
 >>		  *Taught and developed comprehensive course materials for the accredited pharmacy technician program
 	
-
+--------------------------------
 
 
 ## Education
