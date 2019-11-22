@@ -19,7 +19,7 @@
 
   **Ocean Fusion**<br />
      Fullstack Developer<br />
-    *[https://ocean-fusion.herokuapp.com/]*
+    *https://ocean-fusion.herokuapp.com/*
 
 	  *	Interactive trivia game that brings awareness to environmental sustainability
 	  *	Developed all applications pages, animation features, login page feature including Google OAuth
@@ -27,19 +27,28 @@
 	
   **Map MD**<br />
      Solo Developer<br />	
-    *[http://www.github.com/amyhlee/mapMD]*
+    *http://www.github.com/amyhlee/mapMD*
 
 	   * React Native app that finds user’s current location and provides a listing of nearby healthcare providers
 	   * Solo stackathon project built using React Native and Firebase
 	
    **Okashi**<br />
       Fullstack Developer<br />
-     *[http://graceshoppers.herokuapp.com]*
+     *http://graceshoppers.herokuapp.com*
 
 	   * RESTful e-commerce app that is focused on Japanese snacks and candy
 	   * Implemented database, product pages, deployment on Heroku/Travis
 	   * React, Redux, Express, Sequelize, PostgreSQL, Heroku, Travis, Github
 -------------------------------
+## Technical Skills
+
+**Proficient**
+> Javascript, Node.js, Express, React, Redux, Sequelize, PostgreSQL
+
+**Knowledgeable**
+> Heroku, React Native, Firebase, MongoDB
+
+
 ## Work Experience
 
 **Pharmacy Technician Instructor** 2018-2019<br />	
